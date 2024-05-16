@@ -38,8 +38,8 @@ body {
 .banner {
     display: flex;
     flex-wrap: wrap;
-    gap: 2rem;
-    justify-content: space-between;
+    gap: 5rem;
+    justify-content: flex-start;
 }
 
 .pretitle {
@@ -52,9 +52,15 @@ body {
     color: var(--color-text-2);
 }
 
+.title1 {
+    margin: 0;
+    font-size: 3rem;
+    line-height: 1.2;
+}
+
 .title {
     margin: 0;
-    font-size: 4.45rem;
+    font-size: 2.2rem;
     line-height: 1.2;
 }
 
@@ -71,7 +77,7 @@ mark {
     max-width: 28.75rem;
     margin-bottom: 2.325rem;
     margin-top: 2.325rem;
-    font-size: 1.25em;
+    font-size: 1.15em;
     color: var(--color-text-2);
 }
 
@@ -96,8 +102,8 @@ mark {
 
 .banner img {
     display: block;
-    max-width: 670px;
-    width: 100%;
+    max-width: 370px;
+    width: 40%;
 }
 
 .blog-section {
