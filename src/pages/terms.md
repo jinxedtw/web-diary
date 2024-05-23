@@ -1,3 +1,8 @@
+---
+layout: ../layouts/MarkDownLayout.astro
+title: "Terms"
+---
+
 >>># Terms of Service
 >>>#### 1. Acceptance of Terms
 >>>By downloading, installing, or using the **Portable Notes-Diary & Journal application** (hereinafter referred to as the Application), you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use the Application.

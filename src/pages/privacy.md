@@ -1,3 +1,8 @@
+---
+layout: ../layouts/MarkDownLayout.astro
+title: "Privacy"
+---
+
 >>># Privacy Policy
 
 >>>Effective Date: **June 1, 2024**
