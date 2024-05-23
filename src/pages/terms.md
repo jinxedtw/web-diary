@@ -1,6 +1,6 @@
 >>># Terms of Service
 >>>#### 1. Acceptance of Terms
->>>By downloading, installing, or using the **Portable Notes-Diary & Journal application** (hereinafter referred to as the "Application"), you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use the Application.
+>>>By downloading, installing, or using the **Portable Notes-Diary & Journal application** (hereinafter referred to as the Application), you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use the Application.
 >>>#### 2. Use of the Application
 >>>You agree to use the Application only for lawful purposes and in accordance with these Terms of Service and all applicable laws and regulations.
 >>>#### 3. User Content
@@ -12,7 +12,7 @@
 >>>#### 6. Limitation of Liability
 >>>In no event shall we be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to lost profits, arising out of or in connection with your use of the Application.
 >>>#### 7. Indemnification
->>>You agree to indemnify and hold us harmless from any claims, damages, losses, liabilities, costs, and expenses (including attorney's fees) arising out of or in connection with your use of the Application or any violation of these Terms of Service.
+>>>You agree to indemnify and hold us harmless from any claims, damages, losses, liabilities, costs, and expenses (including attorneys fees) arising out of or in connection with your use of the Application or any violation of these Terms of Service.
 >>>#### 8. Changes to Terms
 >>>We reserve the right to modify or replace these Terms of Service at any time. Any changes will be effective immediately upon posting the revised Terms of Service on the Application. Your continued use of the Application after the posting of any changes constitutes acceptance of those changes.
 >>>#### 9. Governing Law

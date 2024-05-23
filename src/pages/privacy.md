@@ -2,7 +2,7 @@
 
 >>>Effective Date: **June 1, 2024**
 
->>>Thank you for choosing to use our application **Portable Notes-Diary & Journal** (hereinafter referred to as the "Application"). We value your privacy and are committed to protecting your personal information. This Privacy Policy is intended to explain how we collect, use, store, and disclose your personal information.
+>>>Thank you for choosing to use our application **Portable Notes-Diary & Journal** (hereinafter referred to as the Application). We value your privacy and are committed to protecting your personal information. This Privacy Policy is intended to explain how we collect, use, store, and disclose your personal information.
 
 >>>## Information Collection
 >>>We may collect the following types of information:
