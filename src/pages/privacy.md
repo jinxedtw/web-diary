@@ -13,9 +13,8 @@ title: "Privacy"
 >We may collect the following types of information:
 
 >1. Automatically Collected Information: When you use our application, we may automatically collect some information, including but not limited to your device information, IP address, and operating logs.
->2. Location Information: If you grant our application access to your location information, we may collect and store data about your location to provide related features, such as recording location information.
->3. Mood and Weather Information: Our application may collect and store the mood status you input as well as related weather information to provide a richer user experience.
->4. Album Storage Permission: Our application may request permission to read album storage, allowing you to add photos or other media files to your notes or to-do lists.
+>2. Collect application performance data, such as crash logs and diagnostic information, to improve system stability and quality of service.
+>3. Album Storage Permission: Our application may request permission to read album storage, allowing you to add photos to your notes or to-do lists.
 
 >## Use of Information
 
